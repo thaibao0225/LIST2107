@@ -1,0 +1,1 @@
+epoch,lr,loss,iou,dice_1,dice_2,val_loss,val_iou,val_dice_1,val_dice_2
